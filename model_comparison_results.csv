@@ -1,0 +1,3 @@
+Model,Toxic Precision,Toxic Recall,Toxic F1-score,Accuracy
+Logistic Regression,1.0,0.25766871165644173,0.4097560975609756,0.924375
+Balanced Logistic Regression,0.7204968944099379,0.7116564417177914,0.7160493827160493,0.9425
